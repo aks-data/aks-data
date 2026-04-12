@@ -100,7 +100,7 @@ dataset to identify customer churn risk and revenue patterns.
 
 ## 📊 GitHub Stats
 
-> 🌱 Just getting started on GitHub — joined July 2025.
+> Just getting started on GitHub
 > More projects coming as I build my portfolio!
 
 <p align="center">
