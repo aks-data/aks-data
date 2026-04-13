@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar Singh</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python · SQL · Power BI · Excel | MCA Graduate | Open to Work</h3>
+<h3 align="center">📊 Data Analyst | Python · SQL · Power BI · Excel | MCA Graduate | Open to Work</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Data+Analyst+in+the+Making...;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Insights+📊" alt="Typing SVG" />
@@ -23,7 +23,6 @@
 - 🌱 Currently learning **Advanced SQL & DAX**
 - 💡 I turn raw data into clear, actionable business insights
 - 📍 Based in **Kolkata, India** | Immediate Joiner | Open to Relocate
-- 📫 Reach me at: **anuragksingh.da@gmail.com**
 
 ---
 
