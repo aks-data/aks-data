@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar Singh</h1>
-<h3 align="center">📊 Data Analyst | Python · SQL · Power BI · Excel | MCA Graduate | Open to Work</h3>
+<h1 align="center">Hi, I'm Anurag Kumar Singh</h1>
+<h3 align="center">Data Analyst · Python · SQL · Power BI · Excel | MCA Graduate, Lovely Professional University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Data+Analyst+in+the+Making...;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Insights+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Data+Analyst+in+the+Making...;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Business+Insights+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,23 +10,23 @@
   <a href="https://linkedin.com/in/iamanuragkrsingh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work--brightgreen?style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **MCA Graduate** from Lovely Professional University *(2022 – 2024)*
-- 📊 Passionate about **Data Analytics & Business Intelligence**
-- 🔰 Fresher actively building my **Data Analyst portfolio**
-- 🌱 Currently learning **Advanced SQL & DAX**
-- 💡 I turn raw data into clear, actionable business insights
-- 📍 Based in **Kolkata, India** | Immediate Joiner | Open to Relocate
+-  **MCA Graduate** from Lovely Professional University *(2022 – 2024)*
+-  Passionate about **Data Analytics & Business Intelligence**
+-  Fresher actively building my **Data Analyst portfolio**
+-  Currently learning **Advanced SQL & DAX**
+-  I turn raw data into clear, actionable business insights
+-  Based in **Kolkata, India** | Immediate Joiner | Open to Relocate
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages & Libraries:**
 
@@ -50,9 +50,9 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📊 1. Customer Churn Risk & RFM Segmentation Dashboard
+### 1. Customer Churn Risk & RFM Segmentation Dashboard
 > **Python + Power BI | Online Retail Dataset**
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
@@ -62,42 +62,42 @@ My **first end-to-end Data Analytics project** — performed RFM
 (Recency, Frequency, Monetary) segmentation on an Online Retail 
 dataset to identify customer churn risk and revenue patterns.
 
-| 📌 Metric | Value |
+|  Metric | Value |
 |---|---|
-| 💰 Total Revenue Analyzed | ₹8.91M |
-| 👥 Customers Segmented | 4,000+ |
-| 🏆 Top Segment (Champions) | 39.49% of customers |
-| ⚠️ At Risk Customers | 14.59% |
+|  Total Revenue Analyzed | ₹8.91M |
+|  Customers Segmented | 4,000+ |
+|  Top Segment (Champions) | 39.49% of customers |
+|  At Risk Customers | 14.59% |
 
 **Key Insights:**
-- 🏆 Champions drive the majority of total revenue (~₹4M)
-- ⚠️ At Risk segment flagged for urgent retention campaigns
-- 💙 Loyal customers show high frequency but lower spend
-- 📣 Retention campaign strategy recommended from RFM scores
+-  Champions drive the majority of total revenue (~₹4M)
+-  At Risk segment flagged for urgent retention campaigns
+-  Loyal customers show high frequency but lower spend
+-  Retention campaign strategy recommended from RFM scores
 
 **Tools Used:** Python · Pandas · Power BI · RFM Analysis · DAX
 
-🔗 **[View Project →](https://github.com/aks-data/customer-churn-rfm-segmentation)**
+ **[View Project →](https://github.com/aks-data/customer-churn-rfm-segmentation)**
 
 ---
 
-## 💼 Experience
+## Experience
 
-**🔹 Student Intern — TechTree Technology** *(Aug 2020 – Oct 2020)*
+** Student Intern — TechTree Technology** *(Aug 2020 – Oct 2020)*
 - Worked with **MySQL** for structured data storage & retrieval
 - Wrote **SQL queries** for data handling & backend operations
 - Built dynamic web pages using **HTML, CSS & JavaScript**
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🎓 **MCA** — Lovely Professional University *(2022 – 2024)*
-- 🎓 **BCA** — George College *(2018 – 2021)*
+-  **MCA** — Lovely Professional University *(2022 – 2024)*
+-  **BCA** — George College *(2018 – 2021)*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 > Just getting started on GitHub
 > More projects coming as I build my portfolio!
@@ -108,7 +108,7 @@ dataset to identify customer churn risk and revenue patterns.
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/iamanuragkrsingh">
@@ -125,7 +125,7 @@ dataset to identify customer churn risk and revenue patterns.
 ---
 
 <p align="center">
-  <i>💬 "Every expert was once a beginner. Every pro was once an amateur."</i>
+  <i> "Every expert was once a beginner. Every pro was once an amateur."</i>
 </p>
 
-<p align="center">⭐ If you like my work, consider starring my repos! ⭐</p>
+<p align="center"> If you like my work, consider starring my repos! </p>
